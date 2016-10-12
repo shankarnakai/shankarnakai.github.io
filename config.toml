@@ -1,0 +1,29 @@
+title = "Shankar Nakai Gonçalves dos Santos"
+languageCode = "en-us"
+baseurl = "http://shankarnakai.github.io/"
+
+[author]
+  name = "Your Name"
+  email = ""
+  
+  github = ""
+  twitter = ""
+  facebook = ""
+  googleplus = ""
+  linkedin = ""
+  gaID = "Google Analytics Tracking ID"
+
+[params]
+  Description = "text under logo"
+  # Optional
+  disqusShortname = ""
+  highlight_theme = "tomorrow-night"
+  notoc = true
+
+
+# Optional sections:
+[permalinks]
+  posts = "/:year/:month/:filename/"
+
+[blackfriday]
+  plainIdAnchors = true
