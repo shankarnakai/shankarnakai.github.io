@@ -1,6 +1,8 @@
 title = "Shankar Nakai Gonçalves dos Santos"
 languageCode = "en-us"
 baseurl = "http://shankarnakai.github.io/"
+canonifyurls: true
+publishdir: "public"
 
 [author]
   name = "Your Name"
