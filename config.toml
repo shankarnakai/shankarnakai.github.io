@@ -1,31 +1,49 @@
-title = "Shankar Nakai Gonçalves dos Santos"
-languageCode = "en-us"
+theme = "hugo-geo"
+title = "Macciato"
+languageCode = "pt-br"
 baseurl = "http://shankarnakai.github.io/"
 canonifyurls= true
 publishdir= "public"
 
-[author]
-  name = "Your Name"
-  email = ""
-  
-  github = ""
-  twitter = ""
-  facebook = ""
-  googleplus = ""
-  linkedin = ""
-  gaID = "Google Analytics Tracking ID"
+disqusShortname = "*****"
+paginate = 5
+
+[taxonomies]
+    tag = "tags"
+    tutorial = "tutorial"
 
 [params]
-  Description = "text under logo"
-  # Optional
-  disqusShortname = ""
-  highlight_theme = "tomorrow-night"
-  notoc = true
+    # Render the rotating globe in the sidebar
+    showglobe = true
 
+    # Google Analytics
+    analytics = "SHORT-CODE-HERE"
 
-# Optional sections:
+    # Social buttons for sidebar
+    github = "https://github.com/alexurquhart"
+    twitter = "https://twitter.com/alexanderurq"
+    linkedin = "https://linkedin.com"
+    email = "shankar.nakai@gmail.com"
+
+    # Sidebar profile picture
+    profilepic = "images/profile.jpg"
+
+    # Title/subtitle for the sidebar
+    title = "Shankar Nakai"
+    subtitle = "Love Golang"
+
+    # Nav links below the profile picture
+    [[params.navlinks]]
+    name = "About"
+    url = "about/"
+
+    [[params.navlinks]]
+    name = "Blog"
+    url = ""
+
+    [[params.navlinks]]
+    name = "Tutorials"
+    url = "tutorial/"
+
 [permalinks]
-  posts = "/:year/:month/:filename/"
-
-[blackfriday]
-  plainIdAnchors = true
+  post = "/:year/:month/:day/:filename/" # optional
