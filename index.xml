@@ -6,8 +6,17 @@
     <description>Recent content on Shankar Nakai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Oct 2016 23:45:48 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2016 00:25:39 -0300</lastBuildDate>
     <atom:link href="http://shankarnakai.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>teste2</title>
+      <link>http://shankarnakai.github.io/2016/10/13/teste2/</link>
+      <pubDate>Thu, 13 Oct 2016 00:25:39 -0300</pubDate>
+      
+      <guid>http://shankarnakai.github.io/2016/10/13/teste2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>teste</title>
