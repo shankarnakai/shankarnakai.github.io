@@ -5,43 +5,17 @@
     <link>http://shankarnakai.github.io/index.xml</link>
     <description>Recent content on Shankar Nakai</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Wed, 12 Oct 2016 20:43:18 -0300</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Oct 2016 23:45:48 -0300</lastBuildDate>
     <atom:link href="http://shankarnakai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>good to tutorial</title>
-      <link>http://shankarnakai.github.io/tutorial/good-to-tutorial/</link>
-      <pubDate>Wed, 12 Oct 2016 20:43:18 -0300</pubDate>
+      <title>teste</title>
+      <link>http://shankarnakai.github.io/2016/10/12/teste/</link>
+      <pubDate>Wed, 12 Oct 2016 23:45:48 -0300</pubDate>
       
-      <guid>http://shankarnakai.github.io/tutorial/good-to-tutorial/</guid>
+      <guid>http://shankarnakai.github.io/2016/10/12/teste/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Welcome MD</title>
-      <link>http://shankarnakai.github.io/tutorial/welcome/</link>
-      <pubDate>Wed, 12 Oct 2016 20:16:40 -0300</pubDate>
-      
-      <guid>http://shankarnakai.github.io/tutorial/welcome/</guid>
-      <description>&lt;p&gt;A New experience for us&lt;/p&gt;
-
-&lt;p&gt;Lorem Ipsum dolor sit ammet dolor&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>good to great</title>
-      <link>http://shankarnakai.github.io/2016/10/12/good-to-great/</link>
-      <pubDate>Wed, 12 Oct 2016 19:27:08 -0300</pubDate>
-      
-      <guid>http://shankarnakai.github.io/2016/10/12/good-to-great/</guid>
-      <description>
-
-&lt;h1 id=&#34;teste&#34;&gt;Teste&lt;/h1&gt;
-
-&lt;p&gt;Its amazing work&lt;/p&gt;
-</description>
     </item>
     
   </channel>
