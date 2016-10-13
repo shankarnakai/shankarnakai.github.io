@@ -1,10 +1,9 @@
 theme = "hugo-geo"
 title = "Shankar Nakai"
-languageCode = "pt-br"
+languageCode = "en-us"
 baseurl = "http://shankarnakai.github.io/"
 canonifyurls= true
 publishdir= "public"
-
 disqusShortname = "*****"
 paginate = 5
 
@@ -20,9 +19,9 @@ paginate = 5
     analytics = "SHORT-CODE-HERE"
 
     # Social buttons for sidebar
-    github = "https://github.com/alexurquhart"
+    github = "https://github.com/shankarnakai/shankarnakai.github.io"
     twitter = "https://twitter.com/alexanderurq"
-    linkedin = "https://linkedin.com"
+    linkedin = "https://br.linkedin.com/in/shankarnakai"
     email = "shankar.nakai@gmail.com"
 
     # Sidebar profile picture
