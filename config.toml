@@ -4,7 +4,7 @@ languageCode = "en-us"
 baseurl = "http://shankarnakai.github.io/"
 canonifyurls= true
 publishdir= "public"
-disqusShortname = "*****"
+disqusShortname = "http-shankarnakai-github-io"
 paginate = 5
 
 [taxonomies]
@@ -13,14 +13,14 @@ paginate = 5
 
 [params]
     # Render the rotating globe in the sidebar
-    showglobe = true
+    showglobe = false 
 
     # Google Analytics
     analytics = "SHORT-CODE-HERE"
 
     # Social buttons for sidebar
     github = "https://github.com/shankarnakai/shankarnakai.github.io"
-    twitter = "https://twitter.com/alexanderurq"
+    #twitter = ""
     linkedin = "https://br.linkedin.com/in/shankarnakai"
     email = "shankar.nakai@gmail.com"
 
@@ -29,20 +29,32 @@ paginate = 5
 
     # Title/subtitle for the sidebar
     title = "Shankar Nakai"
-    subtitle = "Love Golang"
+    subtitle = "Code of Programmer"
 
     # Nav links below the profile picture
     [[params.navlinks]]
-    name = "About"
-    url = "about/"
+    name = "Home"
+    url = "/"
+
+    [[params.navlinks]]
+    name = "Sobre"
+    url = "sobre/"
+
+    [[params.navlinks]]
+    name = "Portifolio"
+    url = "/portifolio"
+
+    [[params.navlinks]]
+    name = "Contato"
+    url = "/Contato"
 
     [[params.navlinks]]
     name = "Blog"
-    url = ""
+    url = "/blog"
 
-    [[params.navlinks]]
-    name = "Tutorials"
-    url = "tutorial/"
+    #[[params.navlinks]]
+    #name = "Tutorials"
+    #url = "tutorial/"
 
 [permalinks]
   post = "/:year/:month/:day/:filename/" # optional
