@@ -6,25 +6,21 @@
     <description>Recent content on Shankar Nakai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 13 Oct 2016 00:25:39 -0300</lastBuildDate>
+    <lastBuildDate>Fri, 14 Oct 2016 08:02:42 -0300</lastBuildDate>
     <atom:link href="http://shankarnakai.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>teste2</title>
-      <link>http://shankarnakai.github.io/2016/10/13/teste2/</link>
-      <pubDate>Thu, 13 Oct 2016 00:25:39 -0300</pubDate>
+      <title>Sobre</title>
+      <link>http://shankarnakai.github.io/sobre/</link>
+      <pubDate>Fri, 14 Oct 2016 08:02:42 -0300</pubDate>
       
-      <guid>http://shankarnakai.github.io/2016/10/13/teste2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>teste</title>
-      <link>http://shankarnakai.github.io/2016/10/12/teste/</link>
-      <pubDate>Wed, 12 Oct 2016 23:45:48 -0300</pubDate>
-      
-      <guid>http://shankarnakai.github.io/2016/10/12/teste/</guid>
-      <description></description>
+      <guid>http://shankarnakai.github.io/sobre/</guid>
+      <description>&lt;p&gt;Eu possuo 7 anos de experiência na área de desenvolvimento Web, onde me especializei em criar soluções que se se adaptem da melhor forma possível ao cliente final, visando sempre gerar valor ao produto final.&lt;/p&gt;
+
+&lt;p&gt;Neste processo criei uma grande experiência com a área de Front-end, implementando e coordenando equipes no processo de desenvolvimento de aplicações web com HTML/HTML 5, CSS/CSS3, JQuery em maior parte, quando necessário a utilização de javascript puro.&lt;/p&gt;
+
+&lt;p&gt;Também obtive experiência no desenvolvimento de aplicações Back-end, onde foi utilizado as ferramentas ASP.NET, Wordpress e Expressionengine. Fazendo desde a integração da API do backend com o Front-end, como integrações com ferramentas externas, tais como o Facebook e Gadgets de Pagamento.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
