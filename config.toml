@@ -34,7 +34,7 @@ paginate = 5
     # Nav links below the profile picture
     [[params.navlinks]]
     name = "Home"
-    url = "/"
+    url = ""
 
     [[params.navlinks]]
     name = "Sobre"
@@ -42,15 +42,15 @@ paginate = 5
 
     [[params.navlinks]]
     name = "Portifolio"
-    url = "/portifolio"
-
-    [[params.navlinks]]
-    name = "Contato"
-    url = "/Contato"
+    url = "portifolio/"
 
     [[params.navlinks]]
     name = "Blog"
-    url = "/blog"
+    url = "post/"
+
+    [[params.navlinks]]
+    name = "Contato"
+    url = "contato/"
 
     #[[params.navlinks]]
     #name = "Tutorials"

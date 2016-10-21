@@ -1,0 +1,24 @@
+{{ partial "head.html" . }}
+{{ partial "nav.html" . }}
+
+<article>
+	<header>
+		<h1>{{ .Title }}</a></h1>
+	</header>
+
+    {{ $paginator := .Paginate (where .Data.Pages "Section" "portifolio") }}
+    <div class="row">
+    {{ range $paginator.Pages }}
+        <div class="col-xs-12 col-sm-6 col-md-4">
+        {{ .Render "summary"}}
+        </div>
+    {{ end }}
+    </div>
+
+    </article>
+
+    <div class="text-center center-block">
+        {{ template "_internal/pagination.html" . }}
+    </div>
+
+{{ partial "footer.html" . }}
