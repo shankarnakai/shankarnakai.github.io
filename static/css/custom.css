@@ -1,4 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Jura|VT323');
+#content {
+    border-top: 5px solid #333;
+}
+
+#profile-pic {
+    border-radius: 0px;
+    border: none;
+}
+
 #large-header {
     position:absolute;
     top: 0px;
@@ -56,8 +65,18 @@
     border: 2px solid #1a9b1a;
 }
 
-
 .portifolio_item {
-    border:1px solid red;
+    height: 300px;
+    border:1px solid #DDD;
     padding: 10px;
+    margin-bottom: 15px;
 }
+
+.portifolio_item .panel-header {
+    text-align: center;
+}
+
+.portifolio_item .panel-body {
+
+}
+

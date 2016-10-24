@@ -6,7 +6,7 @@
 		<h1>{{ .Title }}</a></h1>
 	</header>
 
-    {{ $paginator := .Paginate (where .Data.Pages "Section" "portifolio") }}
+    {{ $paginator := .Paginate (where .Data.Pages "Section" "portifolio") 12 }}
     <div class="row">
     {{ range $paginator.Pages }}
         <div class="col-xs-12 col-sm-6 col-md-4">
